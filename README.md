@@ -1,4 +1,4 @@
-# Equipe Catfish Trails
+# Equipe Catfish Corp
 
 ![Slide1](https://github.com/user-attachments/assets/cc7783ff-295c-46ac-8dc5-3ded70fb14d5)
 
