@@ -1,6 +1,7 @@
 # Equipe Catfish Corp
 
-![Slide1](https://github.com/user-attachments/assets/cc7783ff-295c-46ac-8dc5-3ded70fb14d5)
+![Slide1](https://github.com/user-attachments/assets/7cec675d-f4b4-4c98-b47c-9a091978f358)
+
 
 # Tecnologias usadas no projeto
 
